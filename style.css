@@ -1,0 +1,16 @@
+div {text-align: center;}
+a {border: solid 2px blue; text-decoration: none;}
+body {background-color: aqua;}
+a:hover {background-color: yellow;}
+div {font-family: Verdana;}
+ol {font-size: large;}
+li:hover {color: coral;}
+.container {background-color: greenyellow;
+width: 600px;
+border: 15px solid red;
+padding: 20px;
+margin: 300px;}
+.rev {width: 650px;
+height: 350px;
+border: 10px solid blue;
+margin: 10px;}
